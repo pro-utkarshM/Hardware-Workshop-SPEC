@@ -1,4 +1,5 @@
-#There are various types of software that play a significant role in aiding hardware development and management...
+
+**There are various types of software that play a significant role in aiding hardware development and management...**
 
 
 1. **Electronic Design Automation (EDA) Software**:
